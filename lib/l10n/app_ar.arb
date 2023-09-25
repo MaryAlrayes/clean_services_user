@@ -1,0 +1,229 @@
+{
+"app_name":"خدمات التنظيف",
+"saudi":"السعودية",
+"phone_number":"رقم الهاتف المحمول",
+"password":"كلمة السر",
+"login":"تسجيل الدخول",
+"dont_have_an_account":"ليس لديك حساب؟",
+"create_account":"إنشاء حساب",
+"copy_right":"جميع الحقوق محفوظة لتطبيق خدمات التنظيف {year}",
+"@copy_right": {
+  "placeholders":{
+      "year":{
+          "type": "DateTime",
+          "format": "yyyy",
+          "isCustomDateFormat": "true"
+      }
+  }
+},
+"forget_password":"هل نسيت كلمة المرور؟",
+"or":"أو",
+
+
+"sign_up_welcome":"أهلا وسهلا... قم بإنشاء حساب وانضم إلينا!",
+"user_name":"اسم المستخدم",
+"user_location":"العنوان",
+"choose_city":"اختر مدينتك",
+"confirm_password":"تأكيد كلمة السر",
+"conditions_terms":"الشروط و الأحكام",
+"i_agree":"أوافق على",
+
+"login_by_gmail":"الدخول عبر Gmail",
+"login_by_apple":"الدخول عبر Apple",
+
+"verification_step":"خطوة التحقق",
+"please_enter_verification_code":"من فضلك قم بإدخال الرمز التحقق",
+"code_sent_to_this_number":"تم إرسال الرمز للرقم: {number}",
+"@code_sent_to_this_number":{
+        "placeholders":{
+            "number":{
+                "type":"String"
+            }
+        }
+    },
+"didnot_recieve_code":"لم تستلم الرمز؟",
+"resend":"إعادة الإرسال",
+"verify":"تحقق",
+
+"log_out":"تسجيل الخروج",
+"confirm_log_out":"هل أنت متأكد من أنك تريد تسجيل الخروج؟",
+"yes":"نعم",
+"cancel":"إغلاق",
+
+"laundries_nav":"المغاسل",
+"favorites_nav":"المفضلة",
+"my_orders_nav":"طلباتي",
+"log_orders_nav":"سجل الطلبات",
+"settings_nav":"الاعدادات",
+"how_system_works_nav":"طريقة عمل النظام",
+"terms_conditions_nav":"الشروط والأحكام",
+"logout_nav":"تسجيل الخروج",
+
+"change_language":"تغيير اللغة",
+"change_personal_info":"تغيير المعلومات الشخصية",
+"change_password":"تغيير كلمة المرور",
+"language":"اللغة",
+"old_password":"كلمة السر القديمة",
+"new_password":"كلمة السر الجديدة",
+"confirm_new_password":"تأكيد كلمة المرور الجديدة",
+"done":"تم",
+
+"ask_service":"طلب خدمة من",
+"laundry_services":"خدمات المغسلة",
+"limited_time_offers":"عروض لفترة محدودة",
+"valid_until":"صالح لغاية",
+"free_delivery_offer":"عرض توصيل مجاني",
+"discount_offer_perctnage":"عرض تخفيض على الطلب بنسبة {amount}%",
+"@discount_offer_perctnage":{
+        "placeholders":{
+            "amount":{
+                "type":"num",
+                "format": "decimalPattern"
+
+            }
+        }
+    },
+"call":"اتصال",
+"saudi_clean_services":"خدمات التنظيف السعودية",
+"search":"ابحث",
+"order_by":"ترتيب حسب",
+"closest":"الأقرب",
+"most_rated":"الأكثر تقييما",
+"move_to_map":"الانتقال للخريطة",
+"one_way":"يؤخذ عن طريق المندوبين فقط",
+"two_way":"يؤخذ و يرد عن طريق المندوبين",
+"pay_cash":"دفع كاش",
+"master_card":"Master Card",
+"visa_card":"Visa Card",
+"paypal":"Paypal",
+"google_pay":"Google Pay",
+"services_provided_with_it":"الخدمات المقدمة معها",
+"offer":"عرض",
+"item_type":"نوع القطعة",
+"item_weight":"حجم القطعة",
+"heavy_item_weight":"ثقيلة",
+"light_item_weight":"خفيفة",
+"service_type":"نوع الخدمة",
+"counts":"عدد القطع",
+"price":"السعر",
+"cost":"التكلفة",
+"commission":"العمولة",
+"receivable":"الذمة",
+"total":"المجموع الكلي",
+"order_details":"تفاصيل الطلب",
+"laundry_name":"اسم المغسل",
+"order_date":"تاريخ إنشاء الطلب",
+"order_id":"رقم الطلب",
+"order_status":"حالة الطلب",
+"order_type":"حالة الطلب",
+"order":"طلب",
+"deliveryman_name":"اسم المندوب",
+"delivery_date":"تاريخ تسليم الطلب",
+"notification":"الاشعارات",
+"how_is_your_experience":"كيف كانت تجربتك؟",
+"your_notes":"ملاحظاتك",
+"send":"إرسال",
+
+"order_accepted_noti":"تم قبول طلبك من المغسلة",
+"order_rejected_noti":"تم رفض طلبك من المغسلة",
+"delivery_accepted_order_noti":"تم استلام طلبك من المندوب",
+"order_in_laundry_noti":"وصل طلبك إلى المغسلة وسنخبرك عند الانتهاء منه",
+"order_done_noti":"تم الانتهاء من طلبك",
+"order_recieved_noti":"تم تسليم طلبكم بنجاح",
+
+
+
+
+"pending_laundry_acceptance":"قيد انتظار قبول المغسلة",
+"pending_acceptance_delivery":"قيد انتظار موافقة استلام المندوب",
+"onWay_to_recieve_from_client":"قيد الاحضار من العميل",
+"onWay_to_deliver_to_laundry":"قيد الاحضار للمغسلة",
+"pre_processing":"قيد بدء التنفيذ",
+"processing":"قيد التنفيذ",
+"ready_to_deliver":"جاهز للتسليم",
+"pending_acceptance_from_delivery_to_recieve_from_laundry":"قيد انتظار موافقة التسليم للمندوب",
+"onWay_to_recieve_from_laundry":"قيد الاحضار من المغسلة",
+"onWay_to_deliver_to_client":"قيد الاحضار للعميل",
+"recieved":"تم التسليم",
+
+"confirm_exitting_title_dialog":"تأكيد الخروج",
+"confirm_exitting_subtitle_dialog":"هل حقا تريد الخروج؟",
+"confirm_exitting_yes_btn_dialog":"نعم",
+"confirm_exitting_cancel_btn_dialog":"البقاء",
+
+"operation_done_successfully":"تمت العملية بنجاح",
+
+"step1_location":"موقعك",
+"step2_services":"الخدمات",
+"step3_confirm":"تأكيد",
+"step4_payment":"الدفع",
+
+"error_fetching_coords":"للأسف لم نتمكن من الحصول على احداثيات موقعك، حاول مرة أخرى",
+"retry":"إعادة المحاولة",
+"fetch_coords_loading":"جاري جلب الاحداثيات",
+"coords_has_been_fetched":"تم جلب احداثيات موقعك بنجاح",
+"taking_coords_when_click":"*سيتم أخد احداثيات موقعك الحالي عند الضغط على الزر لتسهيل وصول المندوب إليك",
+"fetch_coords":"جلب الاحداثيات",
+
+"building_number":"رقم البناء",
+"floor_number":"رقم الطابق",
+"continue_btn":"متابعة",
+"back":"رجوع",
+"laundry_name":"اسم المغسل",
+"city":"المدينة",
+"check_order_befor_pay":"تأكد من تفاصيل الطلبية قبل \nالانتقال إلى خطوة الدفع",
+"choose_payment_mode":"اختر طريقة الدفع",
+"you_should_choose_payment_mode":"عليك اختيار طريقة الدفع",
+"sending_order":"جاري إرسال الطلب",
+"pay":"دفع",
+"paying_in_progress":"جاري الدفع",
+"this_field_is_required":"هذا الحقل مطلوب",
+"card_is_invalid":"البطاقة غير صحيحة",
+"cvv_is_invalid":"CVV غير صحيح",
+"month_is_invalid":"الشهر غير صحيح",
+"year_is_invalid":"السنة غير صحيحة",
+"card_expired":"انتهت صلاحية البطاقة",
+"enter_number_pieces":"ادخل عدد القطع",
+"choose_services":"اختر الخدمات",
+"services":"الخدمات",
+"ask_for_another_service":"طلب خدمة أخرى",
+"fill_in_the_required_services":"قم بتعبئة الخدمات المطلوبة",
+"you_must_order_at_least_one_service":"عليك طلب خدمة واحدة على الأقل",
+"fill_all_services":"من فضلك، قم بتعبئة جميع الخانات أو قم بحذف الخدمة التي لا تريدها",
+"missed_city_step1":"من فضلك، قم باختيار مدينتك",
+"missed_building_number_step1":"من فضلك، قم بإضافة رقم البناء",
+"missed_floor_number_step1":"من فضلك، قم بإضافة رقم الطابق",
+"missed_coords_step1":"بحاجة لإحداثيات موقعك",
+"negative_numbers_step1":"تأكد من كتابة رقم البناء ورقم الطابق بشكل صحيح",
+"delivery_type":"أخذ الطلب وإعادة إحضاره إلى العميل عن طريق المندوبين",
+"you_must_enter_your_phone":"عليك ادخال رقمك",
+"you_must_enter_your_password":"عليك ادخال كلمة السر",
+"phone_or_password_not_correct":"رقم الهاتف أو كلمة السر غير صحيحة",
+
+
+
+"saudi_currency":"ريال سعودي",
+"saudi_currency_abb":"ر.س",
+
+"custom_date_time":"{my_date}",
+"@custom_date_time":{
+ "placeholders":{
+ "my_date":{
+     "type": "DateTime",
+     "format": "EE dd/MM/y - hh:mm a",
+     "isCustomDateFormat": "true"
+ }
+ }
+},
+
+"custom_date":"{date}",
+"@custom_date":{
+     "placeholders":{
+     "date":{
+         "type": "DateTime",
+         "format": "d/MM/y",
+         "isCustomDateFormat": "true"
+     }
+  }
+}
+}

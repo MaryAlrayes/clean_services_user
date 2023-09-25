@@ -1,0 +1,229 @@
+{
+  "app_name":"Saudi",
+  "saudi":"Cleaning Services",
+  "phone_number":"Phone Number",
+  "password":"Password",
+  "login":"Login",
+  "dont_have_an_account":"Don't have an account?",
+  "create_account":"Sign up",
+  "copy_right":"All Rights Reserved for Cleaning Services App {year}",
+  "@copy_right": {
+    "placeholders":{
+        "year":{
+            "type": "DateTime",
+            "format": "yyyy",
+            "isCustomDateFormat": "true"
+        }
+    }
+  },
+  "forget_password":"Have you forgotten your password?",
+
+"or":"OR",
+
+"sign_up_welcome":"Welcome... Create an Account and Join us!",
+"user_name":"Username",
+"user_location":"Location",
+"choose_city":"Choose City",
+"confirm_password":"Confirm Password",
+"conditions_terms":"Terms and Conditions",
+"i_agree":"I agree on",
+
+"login_by_gmail":"Continue with Gmail",
+"login_by_apple":"Continue with Apple",
+
+"verification_step":"Verification Step",
+"please_enter_verification_code":"Please enter the verification code",
+"code_sent_to_this_number":"The code has been sent to: {number}",
+"@code_sent_to_this_number":{
+        "placeholders":{
+            "number":{
+                "type":"String"
+            }
+        }
+    },
+"didnot_recieve_code":"Didn't receive the code?",
+"resend":"Resend",
+"verify":"Verify",
+
+"log_out":"Logging Out",
+"confirm_log_out":"Are you sure you want to log out?",
+"yes":"yes",
+"cancel":"cancel",
+
+"laundries_nav":"Laundries",
+"favorites_nav":"Favorite",
+"my_orders_nav":"My Orders",
+"log_orders_nav":"Orders Record",
+"settings_nav":"Settings",
+"how_system_works_nav":"System Working Method",
+"terms_conditions_nav":"Terms and Conditions",
+"logout_nav":"Log out",
+
+"change_language":"Change Language",
+"change_personal_info":"Change Personal Information",
+"change_password":"Change Password",
+"language":"Language",
+"old_password":"Old Password",
+"new_password":"New Password",
+"confirm_new_password":"Confirm New Password",
+"done":"done",
+
+"ask_service":"Ask Service from",
+"laundry_services":"Laundry Services",
+"limited_time_offers":"Limited Time Offers",
+"valid_until":"valid unit",
+"free_delivery_offer":"Free Delivery Offer",
+"discount_offer_perctnage":"Offer discount on order by {amount}%",
+"@discount_offer_perctnage":{
+        "placeholders":{
+            "amount":{
+                "type":"num",
+                "format": "decimalPattern"
+
+            }
+        }
+    },
+"call":"call",
+"saudi_clean_services":"Saudi Clean Services",
+"search":"Search",
+"order_by":"Sort by",
+"closest":"closest",
+"most_rated":"most rated",
+"move_to_map":"Go to Map",
+"one_way":"Only Taken by deliverymen",
+"two_way":"It is taken and returned by deliverymen",
+"pay_cash":"Pay Cash",
+"master_card":"Master Card",
+"visa_card":"Visa Card",
+"paypal":"Paypal",
+"google_pay":"Google Pay",
+"services_provided_with_it":"Services Provided with the Item",
+"offer":"Offer",
+"item_type":"Item Type",
+"item_weight":"Item Weight",
+"heavy_item_weight":"Heavy",
+"light_item_weight":"Light",
+"service_type":"Service Type",
+"counts":"Count",
+"price":"Price",
+"cost":"Cost",
+"commission":"Commission",
+"receivable":"Receivable",
+"total":"Total",
+"order_details":"Order Details",
+"laundry_name":"Laundry Name",
+"order_date":"Order created date",
+"order_id":"Order ID",
+"order_status":"Order Status",
+"order_type":"Order Type",
+"order":"Order",
+"deliveryman_name":"Deliveryman Name",
+"delivery_date":"Order delivery date",
+"notification":"Notifications",
+"how_is_your_experience":"How was your experience?",
+"your_notes":"Your Notes",
+"send":"send",
+
+"order_accepted_noti":"Your laundry order has been accepted.",
+"order_rejected_noti":"Your laundry order has been refused.",
+"delivery_accepted_order_noti":"Your order has been accepted by the deliveryman",
+"order_in_laundry_noti":"Your order has arrived at the laundromat and we'll let you know when it's done",
+"order_done_noti":"Your order has been completed",
+"order_recieved_noti":"Your order has been delivered successfully",
+
+
+
+"pending_laundry_acceptance":"Pending laundry acceptance",
+"pending_acceptance_delivery":"Pending deliveryman reception acceptance",
+"onWay_to_recieve_from_client":"Being brought from client",
+"onWay_to_deliver_to_laundry":"Being brought to laundry",
+"pre_processing":"Pre-processing",
+"processing":"Processing",
+"ready_to_deliver":"Ready to be delivered",
+"pending_acceptance_from_delivery_to_recieve_from_laundry":"Pending deliveryman deliver acceptance",
+"onWay_to_recieve_from_laundry":"Being brought from laundry",
+"onWay_to_deliver_to_client":"Being brought to client",
+"recieved":"Done",
+
+"confirm_exitting_title_dialog":"Confirm Exit",
+"confirm_exitting_subtitle_dialog":"Are you sure you want to exit?",
+"confirm_exitting_yes_btn_dialog":"yes",
+"confirm_exitting_cancel_btn_dialog":"stay",
+
+"operation_done_successfully":"Done successfully",
+
+"step1_location":"Location",
+"step2_services":"Services",
+"step3_confirm":"Confirm",
+"step4_payment":"Payment",
+
+
+"error_fetching_coords":"Unfortunately, we were unable to obtain your location coordinates, try again",
+"retry":"retry",
+"fetch_coords_loading":"Fetching Coordinates",
+"coords_has_been_fetched":"Your location has been fetched successfully",
+"taking_coords_when_click":"*The coordinates of your current location will be taken when pressing the button to facilitate the deliveryman's access to you.",
+"fetch_coords":"Fetch Coordinates",
+
+"building_number":"Building Number",
+"floor_number":"Floor Number",
+"continue_btn":"continue",
+"back":"back",
+"laundry_name":"Laundry Name",
+"city":"City",
+"check_order_befor_pay":"Check the order details before \n proceeding to the payment step",
+"choose_payment_mode":"Choose Payment Mode",
+"you_should_choose_payment_mode":"You must choose a payment mode",
+"sending_order":"sending order",
+"pay":"Pay",
+"paying_in_progress":"Paying in progress",
+"this_field_is_required":"This field is required",
+"card_is_invalid":"Card is invalid",
+"cvv_is_invalid":"CVV is invalid",
+"month_is_invalid":"Expiry month is invalid",
+"year_is_invalid":"Expiry year is invalid",
+"card_expired":"Card has expired",
+"enter_number_pieces":"Enter Number of Pieces",
+"choose_services":"Choose Services",
+"services":"Services",
+
+"ask_for_another_service":"Ask for another service",
+"fill_in_the_required_services":"Fill in the required services",
+"you_must_order_at_least_one_service":"You must order at least one service",
+"fill_all_services":"Please fill in all fields or delete the service you do not want.",
+"missed_city_step1":"Please, select your city.",
+"missed_building_number_step1":"Please, add the building number.",
+"missed_floor_number_step1":"Please, add the floor number.",
+"missed_coords_step1":"We need your location coordinates",
+"negative_numbers_step1":"Make sure you typed the building number and floor number correctly.",
+"delivery_type":"Taking the order and bringing it back to the client through the deliverymen",
+"you_must_enter_your_phone":"You must enter your phone number",
+"you_must_enter_your_password":"You must enter your password",
+"phone_or_password_not_correct":"Phone or password is not valid",
+
+
+"saudi_currency":"Saudi Riyal",
+"saudi_currency_abb":"SR",
+
+"custom_date_time":"{my_date}",
+"@custom_date_time":{
+ "placeholders":{
+ "my_date":{
+     "type": "DateTime",
+     "format": "EE dd/MM/y - hh:mm a",
+     "isCustomDateFormat": "true"
+ }
+ }
+},
+
+"custom_date":"{date}",
+"@custom_date":{
+     "placeholders":{
+     "date":{
+         "type": "DateTime",
+         "format": "d/MM/y",
+         "isCustomDateFormat": "true"
+     }
+  }
+}
+}

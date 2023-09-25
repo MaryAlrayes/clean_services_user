@@ -1,0 +1,232 @@
+{
+
+"app_name":"صفائی کی خدمات",
+"saudi":"سعودی",
+"phone_number":"فون نمبر",
+"password":"پاس ورڈ",
+"login":"لاگ ان کریں",
+"dont_have_an_account":"اکاؤنٹ نہیں ہے؟",
+"create_account":"سائن اپ",
+"copy_right":"کلیننگ سروسز ایپ کے جملہ حقوق محفوظ ہیں۔ {year}",
+"@copy_right": {
+  "placeholders":{
+      "year":{
+          "type": "DateTime",
+          "format": "yyyy",
+          "isCustomDateFormat": "true"
+      }
+  }
+},
+"forget_password":"کیا آپ اپنا پاس ورڈ بھول گئے ہیں؟",
+
+
+"or":"یا",
+
+"sign_up_welcome":"خوش آمدید... ایک اکاؤنٹ بنائیں اور ہمارے ساتھ شامل ہوں!",
+
+"user_name":"صارف نام",
+"user_location":"مقام",
+"choose_city":"شہر کا انتخاب کریں۔",
+"confirm_password":"پاس ورڈ کی تصدیق کریں۔",
+"conditions_terms":"شرائط و ضوابط",
+"i_agree":"میں متفق ہوں۔",
+
+"login_by_gmail":"Gmail کے ساتھ جاری رکھیں",
+"login_by_apple":"Apple کے ساتھ جاری رکھیں",
+
+"verification_step":"تصدیقی مرحلہ",
+"please_enter_verification_code":"براہ کرم تصدیقی کوڈ درج کریں۔",
+"code_sent_to_this_number":"کوڈ بھیج دیا گیا ہے: {number}",
+"@code_sent_to_this_number":{
+        "placeholders":{
+            "number":{
+                "type":"String"
+            }
+        }
+    },
+"didnot_recieve_code":"کوڈ موصول نہیں ہوا؟",
+"resend":"دوبارہ بھیجیں۔",
+"verify":"تصدیق کریں۔",
+
+"log_out":"لاگ آؤٹ ہو رہا ہے۔",
+"confirm_log_out":"کیا آپ واقعی لاگ آؤٹ کرنا چاہتے ہیں؟",
+"yes":"جی ہاں",
+"cancel":"منسوخ",
+
+"laundries_nav":"لانڈری",
+"favorites_nav":"پسندیدہ",
+"my_orders_nav":"میرے احکام",
+"log_orders_nav":"آرڈر ریکارڈ",
+"settings_nav":"ترتیبات",
+"how_system_works_nav":"سسٹم کے کام کرنے کا طریقہ",
+"terms_conditions_nav":"شرائط و ضوابط",
+"logout_nav":"لاگ آوٹ",
+
+"change_language":"زبان تبدیل کریں",
+"change_password":"پاس ورڈ تبدیل کریں",
+"change_personal_info":"ذاتی معلومات کو تبدیل کریں۔",
+"language":"زبان",
+"old_password":"پرانا پاسورڈ",
+"new_password":"نیا پاس ورڈ",
+"confirm_new_password":"نئے پاس ورڈ کی توثیق کریں",
+"done":"ہو گیا",
+
+"ask_service":"سروس سے پوچھیں۔",
+"laundry_services":"لانڈری کی خدمات",
+"limited_time_offers":"محدود وقت کی پیشکش",
+"valid_until":"درست یونٹ",
+"free_delivery_offer":"مفت ڈیلیوری آفر",
+"discount_offer_perctnage":"آرڈر پر {amount}% کی رعایت پیش کریں",
+"@discount_offer_perctnage":{
+        "placeholders":{
+            "amount":{
+                "type":"num",
+                "format": "decimalPattern"
+
+            }
+        }
+    },
+"call":"کال",
+"saudi_clean_services":"سعودی کلین سروسز",
+"search":"تلاش کریں۔",
+"order_by":"ترتیب دیں",
+"closest":"قریب ترین",
+"most_rated":"سب سے زیادہ درجہ بندی",
+"move_to_map":"نقشہ پر جائیں۔",
+"one_way":"صرف ڈیلیوری مین کے ذریعے لیا جاتا ہے۔",
+"two_way":"اسے ڈیلیوری مین لے کر واپس کیا جاتا ہے۔",
+"pay_cash":"رقم ادا کرنا",
+"master_card":"Master Card",
+"visa_card":"Visa Card",
+"paypal":"Paypal",
+"google_pay":"Google Pay",
+"services_provided_with_it":"آئٹم کے ساتھ فراہم کردہ خدمات",
+"offer":"پیشکش",
+"item_type":"چیز کی قسم",
+"item_weight":"چیز کا وزن",
+"heavy_item_weight":"بھاری",
+"light_item_weight":"روشنی",
+"service_type":"سروس کی قسم",
+"counts":"شمار",
+"price":"قیمت",
+"cost":"لاگت",
+"commission":"کمیشن",
+"receivable":"قابل وصول",
+"total":"کل",
+"order_details":"آرڈر کی تفصیلات",
+"laundry_name":"لانڈری کا نام",
+"order_date":"آرڈر بنانے کی تاریخ",
+"order_id":"آرڈر کی شناخت",
+"order_status":"آرڈر کی حیثیت",
+"order_type":"آرڈر کی قسم",
+"order":"ترتیب",
+"deliveryman_name":"ڈیلیوری مین کا نام",
+"delivery_date":"آرڈر کی ترسیل کی تاریخ",
+"notification":"اطلاعات",
+"how_is_your_experience":"آپ کا تجربہ کیسا رہا؟",
+"your_notes":"آپ کے نوٹس",
+"send":"بھیجیں",
+
+"order_accepted_noti":"آپ کا لانڈری آرڈر قبول کر لیا گیا ہے۔",
+"order_rejected_noti":"آپ کے لانڈری آرڈر سے انکار کر دیا گیا ہے۔",
+"delivery_accepted_order_noti":"آپ کا آرڈر ڈیلیوری مین نے قبول کر لیا ہے۔",
+"order_in_laundry_noti":"آپ کا آرڈر لانڈرومیٹ پر پہنچ گیا ہے اور جب یہ ہو جائے گا تو ہم آپ کو بتائیں گے۔",
+"order_done_noti":"آپ کا آرڈر مکمل ہو گیا ہے۔",
+"order_recieved_noti":"آپ کا آرڈر کامیابی سے پہنچا دیا گیا ہے۔",
+
+
+
+"pending_laundry_acceptance":"لانڈری کی منظوری زیر التواء ہے۔",
+"pending_acceptance_delivery":"زیر التواء ڈیلیوری مین استقبالیہ قبولیت",
+"onWay_to_recieve_from_client":"کلائنٹ سے لایا جا رہا ہے",
+"onWay_to_deliver_to_laundry":"کپڑے دھونے کے لیے لایا جا رہا ہے۔",
+"pre_processing":"پری پروسیسنگ",
+"processing":"پروسیسنگ",
+"ready_to_deliver":"پہنچانے کے لیے تیار ہے۔",
+"pending_acceptance_from_delivery_to_recieve_from_laundry":"زیر التواء ڈیلیوری مین ڈیلیوری قبولیت",
+"onWay_to_recieve_from_laundry":"لانڈری سے لایا جا رہا ہے۔",
+"onWay_to_deliver_to_client":"کلائنٹ کے پاس لایا جا رہا ہے۔",
+"recieved":"ہو گیا",
+
+"confirm_exitting_title_dialog":"باہر نکلنے کی تصدیق کریں۔",
+"confirm_exitting_subtitle_dialog":"کیا آپ کو یقین ہے کہ آپ ہیاں سے نکلنا چاہتے ہیں؟",
+"confirm_exitting_yes_btn_dialog":"جی ہاں",
+"confirm_exitting_cancel_btn_dialog":"رہنا",
+
+
+"operation_done_successfully":"کامیابی سے ہو گیا۔",
+
+"step1_location":"مقام",
+"step2_services":"خدمات",
+"step3_confirm":"تصدیق کریں۔",
+"step4_payment":"ادائیگی",
+
+
+"error_fetching_coords":"بدقسمتی سے، ہم آپ کے مقام کے نقاط حاصل کرنے سے قاصر تھے، دوبارہ کوشش کریں۔",
+"retry":"دوبارہ کوشش کریں",
+"fetch_coords_loading":"کوآرڈینیٹس بازیافت کرنا",
+"coords_has_been_fetched":"آپ کا مقام کامیابی سے حاصل کر لیا گیا ہے۔",
+"taking_coords_when_click":"*ڈلیوری مین کی آپ تک رسائی کو آسان بنانے کے لیے بٹن دبانے پر آپ کے موجودہ مقام کے نقاط لیے جائیں گے۔",
+"fetch_coords":"کوآرڈینیٹ حاصل کریں۔",
+
+"building_number":"بلڈنگ نمبر",
+"floor_number":"منزل نمبر",
+"continue_btn":"جاری رہے",
+"back":"پیچھے",
+"laundry_name":"لانڈری کا نام",
+"city":"شہر",
+"check_order_befor_pay":"ادائیگی کے مرحلے پر آگے بڑھنے سے پہلے آرڈر کی تفصیلات چیک کریں۔",
+"choose_payment_mode":"ادائیگی کا موڈ منتخب کریں۔",
+"you_should_choose_payment_mode":"آپ کو ادائیگی کا طریقہ منتخب کرنا ہوگا۔",
+"sending_order":"آرڈر بھیج رہا ہے",
+"pay":"ادا کریں۔",
+"paying_in_progress":"ادائیگی جاری ہے۔",
+"this_field_is_required":"اس کو پر کرنا ضروری ہے",
+"card_is_invalid":"کارڈ غلط ہے۔",
+"cvv_is_invalid":"CVV غلط ہے",
+"month_is_invalid":"میعاد ختم ہونے کا مہینہ غلط ہے۔",
+"year_is_invalid":"میعاد ختم ہونے کا سال غلط ہے۔",
+"card_expired":"کارڈ کی میعاد ختم ہو گئی ہے۔",
+"enter_number_pieces":"ٹکڑوں کی تعداد درج کریں۔",
+"choose_services":"خدمات کا انتخاب کریں۔",
+"services":"خدمات",
+
+"ask_for_another_service":"دوسری خدمت کے لیے پوچھیں۔",
+"fill_in_the_required_services":"مطلوبہ خدمات کو پُر کریں۔",
+"you_must_order_at_least_one_service":"آپ کو کم از کم ایک سروس کا آرڈر دینا چاہیے۔",
+"fill_all_services":"براہ کرم تمام شعبوں کو پُر کریں یا وہ خدمت حذف کریں جو آپ نہیں چاہتے ہیں۔",
+"missed_city_step1":"براہ کرم، اپنا شہر منتخب کریں۔",
+"missed_building_number_step1":"براہ کرم، عمارت کا نمبر شامل کریں۔",
+"missed_floor_number_step1":"براہ کرم، فلور نمبر شامل کریں۔",
+"missed_coords_step1":"ہمیں آپ کے مقام کے نقاط کی ضرورت ہے۔",
+"negative_numbers_step1":"اس بات کو یقینی بنائیں کہ آپ نے بلڈنگ نمبر اور فلور نمبر صحیح طریقے سے ٹائپ کیا ہے۔",
+"delivery_type":"آرڈر لینا اور اسے ڈیلیوری مین کے ذریعے کلائنٹ تک واپس لانا",
+"you_must_enter_your_phone":"آپ کو اپنا فون نمبر درج کرنا ہوگا۔",
+"you_must_enter_your_password":"آپ کو اپنا پاس ورڈ درج کرنا ہوگا۔",
+"phone_or_password_not_correct":"فون یا پاس ورڈ درست نہیں ہے۔",
+
+"saudi_currency":"سعودی ریال",
+"saudi_currency_abb":"SR",
+
+"custom_date_time":"{my_date}",
+"@custom_date_time":{
+ "placeholders":{
+ "my_date":{
+     "type": "DateTime",
+     "format": "EE dd/MM/y - hh:mm a",
+     "isCustomDateFormat": "true"
+ }
+ }
+},
+
+"custom_date":"{date}",
+"@custom_date":{
+     "placeholders":{
+     "date":{
+         "type": "DateTime",
+         "format": "d/MM/y",
+         "isCustomDateFormat": "true"
+     }
+  }
+}
+}
